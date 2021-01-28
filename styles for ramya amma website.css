@@ -1,0 +1,309 @@
+/**********tag reference***********/
+body {
+  margin-bottom: 0;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+/**********class reference**********/
+.heading {
+  font-family: 'Grand Hotel', cursive;
+  font-size: 5rem;
+  padding-top: 5rem;
+}
+
+.chakra {
+  width: 80%
+}
+
+.saffron {
+  color: #F4C430;
+}
+
+.white {
+  color: #fff;
+}
+
+.green {
+  color: #138808;
+}
+
+.side-heading {
+  font-family: 'Yusei Magic', sans-serif;
+  font-weight: lighter;
+  color: #686d76;
+}
+
+.row {
+  margin-right: 0%;
+}
+
+.nav-item {
+  padding: 0 10px;
+  font-size: 1rem;
+  font-family: 'Hachi Maru Pop', cursive;
+}
+
+.navbar-brand {
+  font-family: 'Grand Hotel', cursive;
+  font-size: 2rem;
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.claim-box {
+  padding: 5%
+}
+
+.claims-heading {
+  font-size: 2.5rem;
+  font-family: 'Yusei Magic', sans-serif;
+  color: #686d76;
+  padding-bottom: 2rem;
+}
+
+.claims-description-heading {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.claims-description {
+  font-family: 'PT Sans', sans-serif;
+}
+
+.icons {
+  color: #cbaf87;
+  padding-bottom: 10%;
+}
+
+.icons:hover {
+  color: #ffeebb;
+}
+
+.about-us-heading {
+  margin: 1rem;
+  font-family: 'Yusei Magic', sans-serif;
+  text-align: center;
+  font-size: 2.5rem;
+  clear: right;
+  color: #686d76;
+  padding-bottom: 2rem;
+}
+
+.about-us-img {
+  float: right;
+  width: 16rem;
+  position: relative;
+  bottom: 1.5rem;
+}
+
+.about-us-description {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.2rem;
+}
+
+.products-heading {
+  margin: 1rem;
+  font-family: 'Yusei Magic', sans-serif;
+  text-align: center;
+  font-size: 2.5rem;
+  clear: right;
+  color: #686d76;
+  padding-bottom: 2rem;
+}
+
+.products-description {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.2rem;
+}
+
+.products-img {
+  border-radius: 25%;
+  width: 17rem;
+  float: left;
+  margin-right: 3rem;
+  position: relative;
+  bottom: 5rem;
+}
+
+.products-more-heading {
+  margin: 3rem 0 5rem 0;
+  font-family: 'Yusei Magic', sans-serif;
+  text-align: center;
+  font-size: 2.5rem;
+  color: #686d76;
+}
+
+.products-more-img {
+  width: 15rem;
+  height: 10rem;
+  border-radius: 15%;
+  padding: 1rem 0 1rem 0;
+  align: center;
+}
+
+.products-more-img-heading {
+  font-family: 'Montserrat', sans-serif;
+  padding: 1rem 0 1rem 0;
+  text-align: center;
+}
+
+.products-more-description {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.2rem;
+}
+
+.card {
+  border-style: hidden;
+  border-radius: 15%;
+  margin-bottom: 3rem;
+}
+
+.card:hover {
+  background-color: #ffeebb;
+}
+
+.contact-us-heading {
+  font-family: 'Yusei Magic', sans-serif;
+  font-size: 2.5rem;
+  color: #686d76;
+  clear: left;
+  text-align: center;
+  margin: 1rem 0 3rem 0;
+}
+
+.contact-us-description {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.2rem;
+  width: 80%;
+}
+
+.contact-us-img {
+  float: right;
+  position: relative;
+  bottom: 0.5rem;
+  color: #cbaf87;
+  margin-left: 2rem;
+}
+
+.contact-us-img:hover {
+  color: #fff;
+}
+
+.contact-us-ways-heading {
+  font-family: 'Yusei Magic', sans-serif;
+  font-size: 2.5rem;
+  color: #686d76;
+  clear: left;
+  text-align: center;
+  margin: 1rem 0 5rem 0;
+}
+
+.contact-us-ways-descrption-heading {
+  font-family: 'Montserrat', sans-serif;
+  padding: 1rem 0 1rem 0;
+  text-align: center;
+}
+
+.contact-us-ways-description {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.2rem;
+  text-align: center;
+  margin-bottom: 4rem;
+  color: #000;
+  text-decoration: none;
+}
+
+.contact-us-ways-description:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+.icons-end {
+  color: #cbaf87;
+  margin-bottom: 1rem;
+}
+
+.icons-end:hover {
+  color: #ffeebb;
+}
+
+.closer-icons {
+  padding: 0 0 3rem 0;
+  color: #686d76;
+}
+
+.closer-icons:hover {
+  color: #ffffff80;
+}
+
+.closer-heading {
+  font-family: 'Yusei Magic', sans-serif;
+  font-size: 2rem;
+  color: #fff;
+  text-align: center;
+  margin: 0.5rem 0 3.5rem 0;
+}
+
+.closer-description{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.2rem;
+}
+
+/***********id reference***********/
+#starting {
+  background-color: #ffeebb;
+}
+
+#swadesi {
+  font-family: 'Grand Hotel', cursive;
+  font-size: 5rem;
+}
+
+#alignment {
+  text-align: center;
+}
+
+#end-col {
+  padding: 0;
+}
+
+#claims {
+  background-color: #fff;
+  padding: 5% 15% 3% 15%;
+  text-align: center;
+}
+
+#about-us {
+  background-color: #ffeebb;
+  padding: 3% 15% 2% 15%;
+}
+
+#products {
+  background-color: #ffeebb;
+  padding: 1% 15% 5% 15%;
+}
+
+#products-more {
+  background-color: #fff;
+  padding: 3% 15% 1% 15%;
+  text-align: center;
+}
+
+#contact-us {
+  background-color: #ffeebb;
+  padding: 3rem 15% 5rem 15%;
+}
+
+#contact-us-ways {
+  background-color: #fff;
+  padding: 3rem 15% 3rem 15%;
+  text-align: center;
+}
+
+#closer {
+  background-color: #343a40;
+  text-align: center;
+  padding: 2rem 15% 1rem 15%;
+}
